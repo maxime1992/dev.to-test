@@ -2,5 +2,9 @@
   {
     "id": 133166,
     "relativePathToArticle": "./blog-posts/name-of-your-blog-post/name-of-your-blog-post.md"
+  },
+  {
+    "id": 133734,
+    "relativePathToArticle": "./blog-posts/building-scalable-robusts-and-type-safe-forms-with-angular/building-scalable-robusts-and-type-safe-forms-with-angular.md"
   }
 ]
