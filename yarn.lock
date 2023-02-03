@@ -79,10 +79,10 @@ defer-to-connect@^1.0.1:
   resolved "https://registry.yarnpkg.com/defer-to-connect/-/defer-to-connect-1.0.2.tgz#4bae758a314b034ae33902b5aac25a8dd6a8633e"
   integrity sha512-k09hcQcTDY+cwgiwa6PYKLm3jlagNzQ+RSvhjzESOGOx+MNOuXkxTfEvPrO1IOQ81tArCFYQgi631clB70RpQw==
 
-dev-to-git@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/dev-to-git/-/dev-to-git-1.0.0.tgz#f9ab193d25a81e9c22da8df66eb4c3b70cc5d4fa"
-  integrity sha512-V2nuMykf/f2OdJoBdZvRS4l8Yl4tSm8hQCjvTGrsuc51mjdFz8Gtv8KhzQBmXVPOgwS+mD0ltO5F8g5oxXOnRA==
+dev-to-git@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/dev-to-git/-/dev-to-git-1.1.0.tgz#d093aad2920b50b49941fc98f957cacfb6425861"
+  integrity sha512-XOdc9Fiu+H95Inbex9toxrLmd9RYEOYG08FHZzbwKDkBtocJA+N6wsW7FFX9kZBcZ8wYi3IgkEtIriMNCPsMIw==
   dependencies:
     dotenv "8.0.0"
     got "9.6.0"
@@ -155,9 +155,9 @@ has-flag@^3.0.0:
   integrity sha1-tdRU3CGZriJWmfNGfloH87lVuv0=
 
 http-cache-semantics@^4.0.0:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.0.3.tgz#495704773277eeef6e43f9ab2c2c7d259dda25c5"
-  integrity sha512-TcIMG3qeVLgDr1TEd2XvHaTnMPwYQUQMIBLy+5pLSDKYFc7UIqj39w8EGzZkaxoLv/l2K8HaI0t5AVA+YYgUew==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.1.1.tgz#abe02fcb2985460bf0323be664436ec3476a6d5a"
+  integrity sha512-er295DKPVsV82j5kw1Gjt+ADA/XYHsajl82cGNQG2eyoPkvgUhX+nDIyelzhIWbbsXP39EHcI6l5tYs2FYqYXQ==
 
 json-buffer@3.0.0:
   version "3.0.0"
